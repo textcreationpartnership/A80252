@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A common-vvealth and commonvvealths-men, asserted and vindicated: wherein the necessity and advantage of putting their principles into speedy practice, is breifly repeated; and peace and unity commended to the people of this nation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80252</idno>
+            <idno type="STC">Wing C5575</idno>
+            <idno type="STC">Thomason E988_19</idno>
+            <idno type="STC">ESTC R208114</idno>
+            <idno type="EEBO-CITATION">99867105</idno>
+            <idno type="PROQUEST">99867105</idno>
+            <idno type="VID">119395</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80252)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119395)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E988[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A common-vvealth and commonvvealths-men, asserted and vindicated: wherein the necessity and advantage of putting their principles into speedy practice, is breifly repeated; and peace and unity commended to the people of this nation.</title>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Henry Fltecher, at the three Gilt Cups in Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June. 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and Government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119395:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 43 -->
+            <p>A COMMONVVEALTH, AND Commonvvealths-men, Aſſerted and Vindicated: Wherein The Neceſſity and Advantage of putting their Principles into ſpeedy practice, is briefly repeated; And PEACE and UNITY, Commended to the People of this Nation.</p>
+            <q xml:lang="lat">
+               <bibl>Tacit. Lib. 3. Annal.</bibl>
+               <p>Poſtquam exui aequalitas, &amp; pro modeſtiâ ac pudore, ambitio &amp; vis in<g ref="char:EOLhyphen"/>cedebat, Provenêre dominationes: multoſque apud populos aeternum manſcrit. Quidam ſtatim, aut poſtquam REGUM pertoeſum, LEGES maluerunt.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Henry Fletcher,</hi> at the three Gilt Cups in <hi>Paul</hi>'s Church-yard. 1659. <add>June. 28</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119395:2"/>
+            <!-- PDF PAGE 44 -->
+            <pb n="1" facs="tcp:119395:2"/>
+            <!-- PDF PAGE 44 -->
+            <head>A COMMONWEALTH, AND COMMONWEALTHS-MEN, Aſſerted and Vindicated.</head>
+            <p>THough in this time of general ſcribling, and day<g ref="char:EOLhyphen"/>ly impregnating the Preſs with no leſs ſeditious then ridiculous Pamphlets, it cannot but be thought an Act accountable to diſcretion, for any one of a ſober Spirit &amp; ſettled Principles to appear in Print among ſuch lewd Company, or to offer any thing of ſeriouſneſs, in a way now rendered ſo unagreeable for buſineſs of that nature: Yet for the better compoſing &amp; ſettling the minds of thoſe who may by ſuch and ſo many interfering va<g ref="char:EOLhyphen"/>rieties, and ſpurious iſſues of corrupt brains, be render<g ref="char:EOLhyphen"/>ed tottering from their foundations, either of Piety, Pru<g ref="char:EOLhyphen"/>dence or Obedience; and for the vindicating the Inte<g ref="char:EOLhyphen"/>grity and Reputations of thoſe, who for their Love and Loyalty to their Country, are by all means and artifice endeavoured to be rendered liable to Obloquy and Diſ<g ref="char:EOLhyphen"/>grace, I ſhall adventure to break that ſilence which Prudence might perſwade: And though neither the Cauſe now under agitation, nor the Perſons acting, can with rational Men, receive any diſadvantage from ſuch
+<pb n="2" facs="tcp:119395:3"/>
+               <!-- PDF PAGE 45 -->poor pamphleting Opponents, yet the number of the Honeſt and Wife being now and alwayes but ſmall, the preſent ſtate of Affairs, may juſtly exact ſomething of Reaſon and Judgement to be repeated, for the eſtabliſh<g ref="char:EOLhyphen"/>ing of Mens Minds in the Equity and Right of that Cauſe which is endeavoured to be made ſo dubious, and dangerous, if not deſtructive.</p>
+            <p>That therefore a Government is neceſſary to the con<g ref="char:EOLhyphen"/>ſiſtencie of all Societies of Men, is not (notwithſtanding the Anarchical tendencies of ſome Mens Spirits) ſo much the Diſpute amongſt us, as, What ſort and kinde of Government is moſt agreeable to the preſent ſtate of theſe Nations. And the difference herein (the Parlia<g ref="char:EOLhyphen"/>ment having now freed themſelves from all jealouſies of introducing an Oligarchy (the worſt of Governments) remains onely between the Monarchiſts and Common<g ref="char:EOLhyphen"/>wealths-men. The firſt, receiving the ſpecious juſtifi<g ref="char:EOLhyphen"/>cation of the precedent Cuſtom and Uſe of this Nation: The latter, the diſadvantagious imputation of a Nove<g ref="char:EOLhyphen"/>liſm, unpractiſed, and impracticable amongſt us. In which Caſe, though it be confeſſed that Antient Laws and Uſages are not eaſily, and upon ſlight occaſions to be changed, according to that <hi>Quadrane</hi> of <hi>Pibrac,</hi>
+               <q xml:lang="fre">
+                  <l>La ley ſoubs qui l'eſtat ſa force a priſe</l>
+                  <l>Garde la bien, pour goffe qu'elle ſoit:</l>
+                  <l>Le bon heur vient d'ou' ton nes' appercoit,</l>
+                  <l>Et bien ſouvent de ce que lou meſpriſe.</l>
+               </q>
+               <q>
+                  <l>Maintain thoſe Laws (however rude and plain)</l>
+                  <l>Whereby before thy Commonwealth hath thriv'd:</l>
+                  <l>Good Fortune oft comes by the loweſt mean,</l>
+                  <l>How, or from whence, ſometimes is ſcarce perceiv'd.</l>
+               </q>
+               <pb n="3" facs="tcp:119395:3"/>
+               <!-- PDF PAGE 45 -->Yet it cannot likewiſe but be granted, that <hi>Quod recte a<g ref="char:EOLhyphen"/>lio tempore conſtitutum eſt, itidem recte alio tempore poteſt mu<g ref="char:EOLhyphen"/>tari:</hi> That upon a mutation of the cauſes of things, the things themſelves may (nay muſt) be likewiſe changed, and that without any imputation of Novelty. <hi>Augu<g ref="char:EOLhyphen"/>ſtines</hi> Aſſertion being indubitably true, <hi>Id quod in tempore novum eſt, non eſt novum apud eum qui condidit tempora, &amp; ſine tempore habet omnia, quae ſuis quibuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> temporibus pro eo<g ref="char:EOLhyphen"/>rum VARIETATE diſtribuit:</hi> That which in the preſent time appears new to us, is not new with him who ap<g ref="char:EOLhyphen"/>pointed that time, and who before the time, compre<g ref="char:EOLhyphen"/>hends thoſe things which he diſtributes to every particu<g ref="char:EOLhyphen"/>lar time, <hi>according to its variety and change.</hi> So that we may conclude with <hi>Seneca, Non incidunt cuncta, ut puta<g ref="char:EOLhyphen"/>mus, ſed veniunt;</hi> Things do not ſuddenly and newly hap<g ref="char:EOLhyphen"/>pen, as we conceive, but come in their due and appoin<g ref="char:EOLhyphen"/>ted courſe. And therefore where GOD Almighty in his eternal Providence manifeſted to us in the preſent time, hath thought fit to change and ſubvert old founda<g ref="char:EOLhyphen"/>tions, and to lay new ones amongſt us, let it not be thought Novelty in thoſe, who ſtill to maintain the building upright and firm, relinquiſh the old rotten and obſolete foundations, and apply themſelves to the erect<g ref="char:EOLhyphen"/>ing of ſuch agreeable ſuperſtructures on thoſe which are now laid amongſt us, as ſhall be moſt for the ſafety of the people, which is the Supreme Law of all Nations.</p>
+            <p>But to arbitrate more clearly between theſe parties, I ſhall proceed upon ſuch undenyable principles, as re<g ref="char:EOLhyphen"/>ceive their confirmation both from Reaſon and Expe<g ref="char:EOLhyphen"/>rience. And of thoſe, this ſhall be the Corner-ſtone, That from the legall diſtribution and over-balance of pro<g ref="char:EOLhyphen"/>priety, deriveth naturally all Government. Which <hi>Ma<g ref="char:EOLhyphen"/>xime</hi> hath had ſuch a general reception, is ſo obvious to
+<pb n="4" facs="tcp:119395:4"/>
+               <!-- PDF PAGE 46 -->every capacity, and ſo manifeſted by experience, that it ſtands not in need of any further illuſtration. The caſe hath been learnedly and clearly deduced <hi>ab origine</hi> from the Government of Families,<note place="margin">
+                  <hi>Mr.</hi> J. H.</note> which may be either Monarchical, or Popular, according to the balance of propriety. If one Man have 1000 <hi>l. per annum,</hi> he in ſuch caſe is abſolute Monarch over his Sons and Servants, who depend ſolely upon him, and (as hath been well ſaid) are hung upon him by the teeth: And if (as we have too frequent examples amongſt us) this 1000 <hi>l. per annum</hi> be ſpent or conſumed, his Monarchy imme<g ref="char:EOLhyphen"/>diately thereupon fails, and he himſelf is reduced to the condition of a Servant, and of equality with thoſe who formerly ſerved himſelf. Whereby it appears, that the foundation or balance of his Empire was in the 1000 <hi>l. per annum,</hi> and not otherwiſe. But now, if ſix or ten men having 300 <hi>l. per annum</hi> apiece, agree to dwell together as one Family, not any one of theſe can pretend to be Lord and Maſter of the ſame; But they all agree together upon ſuch Orders, unto which they conſent equally to ſubmit: And the parity of their Eſtates, creating in them a parity of minds and condi<g ref="char:EOLhyphen"/>tions, (in which caſe the old Rules hold, <hi>par in parem non habet imperium, &amp; Aequalibus velle imperare eſt contra na<g ref="char:EOLhyphen"/>turam ſuperbire</hi>) they naturally contract a common equal intereſt, and devolve into the State of a free Com<g ref="char:EOLhyphen"/>monwealth, and are only capable of a Government of Laws and Orders, and not of one or more men. In ei<g ref="char:EOLhyphen"/>ther of which caſes, being thus put, it is referred to every or any capacity, whether without violence, or mo<g ref="char:EOLhyphen"/>ring of propriety, a Popular family can be made of the Monarchical, or a Monarchical family of the popular. And we know, a Family is but a ſmaller ſociety or Na<g ref="char:EOLhyphen"/>tion;
+<pb n="5" facs="tcp:119395:4"/>
+               <!-- PDF PAGE 46 -->and a Nation, but a greater ſociety or Family.</p>
+            <p>This therefore being premiſed as granted; and it being likewiſe yielded by me, that the over-balance of propriety in theſe Nations, as it lately was in the King and Nobility, doth naturally produce either an Ariſto<g ref="char:EOLhyphen"/>cracy, or a mixt Monarchy, as by a ſufficient experience hath been manifeſt amongſt us, And which (if the ba<g ref="char:EOLhyphen"/>lance had ſo ſtill remained) we might with ſome hap<g ref="char:EOLhyphen"/>pineſs yet have enjoyed; It remains for the determining the queſtion, only to ſhew that the balance is altered from the former Monarchical, and now remains in a popular ſcale: And then, according to that known rule, <hi>Restranſit cum ſuâ cauſâ,</hi> It will neceſſarily follow, that the balance, the cauſe of Government, being changed; the Government it ſelf, as the effect, muſt follow the balance it's cauſe. And that, and how the Engliſh Balance hath been and is varied and changed, is moſt politely and politiquely demonſtrated by the Excellent Mr. <hi>Harrington</hi> (whoſe writings, if they were received and conſidered, with that reſpect, candour and inge<g ref="char:EOLhyphen"/>nuity, which the Author and they deſerve from this Na<g ref="char:EOLhyphen"/>tion, they would ſoon give a conviction to the moſt ſtre<g ref="char:EOLhyphen"/>nuous opponents of this cauſe.) I ſhall need therefore only to touch the matter of fact, and (with him) to af<g ref="char:EOLhyphen"/>firm, that the Lands now in hold of the people, over<g ref="char:EOLhyphen"/>balance thoſe in the hold of the Nobility at leaſt nine in ten; whereby it is evident that we now are upon a Po<g ref="char:EOLhyphen"/>pular balance, down-weight; and being ſo, cannot ad<g ref="char:EOLhyphen"/>mit of any other form of Government then ſuch as is Popular, without violence and force offered to proprie<g ref="char:EOLhyphen"/>ty: which once rightly perceived and underſtood, would I perſwade my ſelf, ſoon put a ſtop to the proceedings of the moſt violent Aſſertors of Monarchy, and <hi>rebus lo<g ref="char:EOLhyphen"/>quentibus,
+<pb n="6" facs="tcp:119395:5"/>
+                  <!-- PDF PAGE 47 -->nobis tacentibus,</hi> convince them, That Mr. <hi>Wrens</hi> robuſtious Arguments, to alter and ſuit the Balance to the Government, and not the Government to the Ba<g ref="char:EOLhyphen"/>lance, whereby, he ſaith, he hath at once inverted the aim, and overturned the frame of the whole Common<g ref="char:EOLhyphen"/>wealth of <hi>Oceana,</hi> is but bad Logick, and would prove worſe Policy; and which (as he truly ſaith) would real<g ref="char:EOLhyphen"/>ly overturn and deſtroy the whole frame of this flouri<g ref="char:EOLhyphen"/>ſhing Nation.</p>
+            <p>The neceſſity of a Commonwealth being now evin<g ref="char:EOLhyphen"/>ced, and that we are forced upon that form of Govern<g ref="char:EOLhyphen"/>ment; It might be thought fit likewiſe to be ſhewn, that this neceſſity is no way hazardous, but advantagious to us; and that we are not conſtrained to that which is hurtful, but even to the embracement of our own hap<g ref="char:EOLhyphen"/>pineſs: Which though I deny not, but that it may be, and hath been had under other Governments, yet it is and hath been in a more eminent and grateful man<g ref="char:EOLhyphen"/>ner, under that of a Commonwealth. But the ad<g ref="char:EOLhyphen"/>vantage of this Government is ſo cleerly already ſet forth to publique conſideration,<note place="margin">
+                  <hi>By</hi> I. H.</note> that there is not any thing which may remain further to be deſired therein.</p>
+            <p>It may ſuffice that we but take notice, that the nature and effect of this Government is ſo well known to be Freedom, that it is thereby deſcribed; and in all Wri<g ref="char:EOLhyphen"/>ters, the moſt frequent diſtinguiſhing terms between Monarchy and a Commonwealth, are <hi>Servitus</hi> and <hi>Li<g ref="char:EOLhyphen"/>bertas;</hi> as one ſpeaking of the inconſtancy of mens minds,<note place="margin">
+                  <hi>Clapmar.</hi> &amp; <hi>Tac.</hi> in vita Agric. di<g ref="char:EOLhyphen"/>cit, <q xml:lang="lat">Princi<g ref="char:EOLhyphen"/>patum ac liberta<g ref="char:EOLhyphen"/>tem res eſſe diſſociabi<g ref="char:EOLhyphen"/>les.</q>
+               </note> under either the one or the other, ſaith, <hi>Qui in ſervitute ſunt libertatem exoptant, qui in libertate ſervitutem.</hi> And we know that Liberty (in what reſpect ſoever) is the moſt grateful and deſirable thing, this world either doth or can afford us; and is that which hath been alwayes in<g ref="char:EOLhyphen"/>grafted
+<pb n="7" facs="tcp:119395:5"/>
+               <!-- PDF PAGE 47 -->in a moſt ſpecial manner, in the hearts and minds of this Nation, of whom, even whilſt the name (though not the nature) of Liberty was ſcarce known to them, <hi>Tacitus</hi> thus relates: <hi>Ipſi Britanni dilectum, ac tri<g ref="char:EOLhyphen"/>buta &amp; injuncta imperii munera, impigre obeunt, ſi injuriae ab<g ref="char:EOLhyphen"/>ſint, has aegre tolerant, jam domiti ut pareant, nondum ut ſer<g ref="char:EOLhyphen"/>viant.</hi>
+            </p>
+            <p>And now I cannot but enter into an admiration of the waywardneſs of our people of this Age, who are ſo faſt and wilfully fettered to their old Uſages and Cu<g ref="char:EOLhyphen"/>ſtoms, that though they cannot retain, yet will they not be perſwaded to part with them; being of his froward humour in the Poet:</p>
+            <q xml:lang="lat">Nec poſſum tecum vivere, nec ſine te.</q>
+            <p>But inſtead of endeavouring and applying themſelves to the advancement of ſuch a ſettlement as the nation in the preſent ſtate of things is capable of, they eſtuate and torment themſelves with repining and diſſatisfacti<g ref="char:EOLhyphen"/>on at the Providence and Prudence of GOD, and ſeem rather deſirous to ruſh into Anarchy, or like the beaſt into the Battle, then to yeild their compliance or aſſiſt<g ref="char:EOLhyphen"/>ance to the building of agreeable Superſtructures upon that Baſis of Government which even GOD and Nature have laid amongſt us. Nay, ſuch is the temper of theſe times, that thoſe Perſons who are both prudent in under<g ref="char:EOLhyphen"/>ſtanding of, and faithful in acting for the intereſt &amp; ſet<g ref="char:EOLhyphen"/>tlement of their Country, are forced to complain, That having offered ayd at this loſs, they have eſcaped well if they be ſcorned, and not ruined, by their ungrateful Country, whoſe Liberty whilſt they indeavour to pro<g ref="char:EOLhyphen"/>cure, they thereby indanger their own.</p>
+            <pb n="8" facs="tcp:119395:6"/>
+            <!-- PDF PAGE 48 -->
+            <q xml:lang="lat">
+               <l>—Pudet haec approbria nobis</l>
+               <l>Et dici potuiſſe, &amp; non potuiſſe refelli.</l>
+            </q>
+            <p>That this hath been, and ſtill is the temper of many amongſt us, who are guided more by Zeal then Kow<g ref="char:EOLhyphen"/>ledge, is more apparent then that it ſhould need to be ſhewn; and ſo much a crime, as that it cannot receive the palliation of any other excuſe, then that whereby <hi>St. Paul</hi> extenuates his perſecuting, <hi>It is done out of Ignorance.</hi> For the removing therefore of the Cauſe, and conſe<g ref="char:EOLhyphen"/>quently the Diſeaſe; I cannot think of any more wholeſome <hi>Recipe</hi>'s then theſe which follow:
+<list>
+                  <item>1. That Mr. <hi>Harringtons</hi> Writings be diligently and ſeriouſly read and peruſed.</item>
+                  <item>2. That before they be taken in hand, the Reader lay aſide all prejudicate thoughts and opinions, concerning either the Author or them; but yeild himſelf up to be led by them, if he finde in them reaſon ſufficient to do it.</item>
+                  <item>3. That afterwards (ſince <hi>oppoſita juxtaſe poſit a clarius illuceſcunt</hi>) Mr. <hi>Wren</hi> be likewiſe read<g ref="char:punc">▪</g> And then both together being laid in the Balance of Reaſon and Judge<g ref="char:EOLhyphen"/>ment, the Readers reſtitution to a ſound mind concern<g ref="char:EOLhyphen"/>ing a Commonwealth will be expected.</item>
+               </list>
+            </p>
+            <p>In the mean time, let us be aſſured, That Diſtraction and War, wherein is the abſence of all Government, is infinitely more noxious then the eſtabliſhment of the worſt of Governments (were ſuch a one intended to be impoſed upon us) can poſſibly be. And though there be no great cauſe either to doubt or fear our being redu<g ref="char:EOLhyphen"/>ced into ſuch a ſtate, yet the frequent Births and pub<g ref="char:EOLhyphen"/>like
+<pb n="9" facs="tcp:119395:6"/>
+               <!-- PDF PAGE 48 -->expoſing of the many late peſtilent Libels, being the iſſues of weak corrupted Judgements, and diſconten<g ref="char:EOLhyphen"/>ted Mindes, cannot but be looked upon as tendencies and excitements thereunto. It onely remains therefore that we be all perſwaded to a free and voluntary, or at leaſt, an <hi>Acquieſcent</hi> ſubmiſſion and obedience to the pre<g ref="char:EOLhyphen"/>ſent Providence and Power manifeſted and ſet up a<g ref="char:EOLhyphen"/>mongſt us, and in peace and patience wait the reſult of their conſultations and actions, which they have ſolemn<g ref="char:EOLhyphen"/>ly promiſed and engaged ſhall be for our preſervation in our Liberties, as Men and Chriſtians, and for the ſet<g ref="char:EOLhyphen"/>ling of us upon the ſolid and ſure Foundation of a Free and Equal Commonwealth; and of their performance whereof, we have not as yet had, and with much confi<g ref="char:EOLhyphen"/>dence perſwade our ſelves we ſhall not at any time have any cauſe to doubt. I conclude with that Obſervation of <hi>Tacitus,</hi> That it was onely our diſ-union that formerly rendered us ſubject to the conqueſt of the Romans; and for a farewel, give you his occaſional conſideration thereupon:</p>
+            <epigraph>
+               <q xml:lang="lat">Nec aliud adverſus validiſsimas gentes pro no<g ref="char:EOLhyphen"/>bis utilius quam quod in commune non conſulunt, Ita dum ſinguli pugnant, Univerſi vincuntur.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
